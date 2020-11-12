@@ -32,7 +32,6 @@ fn main() {
     }
     else {
         let mut temperature = String::new();
-        println!("{:?}", args);
         println!("Enter a number:\n");
         io::stdin().read_line(&mut temperature).expect("Failed to read input.");
         
