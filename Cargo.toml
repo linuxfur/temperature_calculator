@@ -5,7 +5,7 @@ authors = ["Ashley <admin@trapacid.icu>"]
 edition = "2018"
 description = "A temperature calculator."
 repository = "https://github.com/Trapacid/temperature_calculator.git"
-license = "WTFPL 2.0"
+license = "WTFPL"
 license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
